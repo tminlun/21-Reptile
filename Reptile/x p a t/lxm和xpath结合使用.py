@@ -50,14 +50,13 @@ def get_position():
         所以必须使用.（如“.//a 表示当前div下面的所有子孙a标签”。或./span表示当前div下的子标签）
         '''
 
-
         # 获取href
         # aList = div.xpath('.//a/@href')[0]
-
 
         # if any(div) == False:
         #     # 对象是否为空
         #     continue
+
         # 获取a标签
         aList = div.xpath('./a')[0]
         # print(etree.tostring(aList, encoding='utf-8').decode('utf-8'))
@@ -80,7 +79,6 @@ def get_position():
         # 是否收藏
         # is_fav = div.xpath('./div[1]/span[2]/text()')[0]
         is_fav = div.xpath('.//span[@class="collection-text"]//text()')[0]
-        print(is_fav)
 
         # 定义值
         position = {
@@ -92,7 +90,7 @@ def get_position():
         }
         positions.append(position)
 
-    return is_fav
+    return positions
 
 if __name__ == '__main__':
     positon = get_position()
