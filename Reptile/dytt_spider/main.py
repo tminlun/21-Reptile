@@ -74,9 +74,10 @@ def parse_detail_page(url):
     movie['封面图'] = cover
     movie['截图'] = screenshot
 
+    # 封装方法：替换指定字符并去掉空格
     def pase_info(info,rule):
         '''
-        替换指定字符并去掉空格
+
         :param info: 数据
         :param rule: 指定字符
         :return: 过滤后的数据
@@ -112,26 +113,54 @@ def parse_detail_page(url):
         elif info.startswith('◎标　　签'):
             label = pase_info(info, '◎标　　签')
             movie['标签'] = label
-        elif index == 32:
-            movie['简介'] = info.strip()
         elif info.startswith('◎主　　演'):
             '''
             判断为“◎主　　演”开头后，继续遍历余下的数据。
             当遇到“◎简　　介 ”停止遍历，并保存数据
             '''
-            # index表示  当前数据的下标。100表示不确定的数据量
-            for x in range(index+1,100):
-                print(info)
+            info = pase_info(info, '◎主　　演').strip()
+            actors = [info]  # 储存演员信息，并进行拼接([info, actor])
 
+            # index表示 当前数据的下标（当前数据后面的数据）。len(infos)  总索引
+            for x in range(index + 1, len(infos)):
+                # 使用infos根据下标获取对应的值
+                actor = infos[x].strip()
 
+                if actor.startswith('◎'):
+                    # 去除其他信息
+                    break
+                actors.append(actor)
+            # 添加到字典
+            movie['演员'] = actors
 
-    # print(movie)
+        elif info.startswith('◎简　　介 '):
+
+            synopsis = []
+
+            # 使用下标根据infos获取数据
+            for x in range(index + 1, len(infos)):
+                synopsi = infos[x].strip()
+                if synopsi.startswith('【下载地址】'):
+                    # 停止遍历数据
+                    break
+                synopsis.append(synopsi)
+            # 多余的数据过滤
+            synopsis = synopsis[0]
+            movie['简介'] = synopsis
+
+    # 下载链接
+    download_url = html.xpath('//td[@bgcolor="#fdfddf"]/a/text()')[0]
+    movie['下载链接'] = download_url
 
     return movie
 
 
 def spider():
-    for i in range(1,9):
+    '''主函数'''
+
+    movies = []  # 储存所有电影
+
+    for i in range(9,11):
         # 列表 url
         url = 'https://www.dytt8.net/html/gndy/dyzz/list_23_{num}.html'.format(num=i)
 
@@ -142,11 +171,14 @@ def spider():
         detail_urls = get_detail_urls(url)
 
         for detail_url in detail_urls:
-            parse_detail_page(detail_url)
+            movie = parse_detail_page(detail_url)
+            movies.append(movie)
 
-            break
-
-        break
+            # break
+        # # 只遍历一次
+        # break
+    print(movies)
+    return movies
 
 
 if __name__ == '__main__':
