@@ -91,6 +91,7 @@ def parse_detail(url):
         '工作职责': responsibility,
         '工作要求': requirement,
     }
+    print(position)
 
     return position
 

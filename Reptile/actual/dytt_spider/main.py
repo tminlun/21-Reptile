@@ -17,6 +17,7 @@ HEADERS = {
 
 urls = []
 
+
 def get_detail_urls(url):
     global urls
     '''
@@ -87,7 +88,7 @@ def parse_detail_page(url):
 
     # 文本
     infos = ZoomD.xpath('.//text()')
-    for index,info in enumerate(infos):
+    for index, info in enumerate(infos):
         # 利用下标获取具体的文本
         # print(info)
         # print(index)
@@ -119,7 +120,7 @@ def parse_detail_page(url):
             当遇到“◎简　　介 ”停止遍历，并保存数据
             '''
             info = pase_info(info, '◎主　　演').strip()
-            actors = [info]  # 储存演员信息，并进行拼接([info, actor])
+            actors = [info,]  # 储存演员信息，并进行拼接([info, actor])
 
             # index表示 当前数据的下标（当前数据后面的数据）。len(infos)  总索引
             for x in range(index + 1, len(infos)):

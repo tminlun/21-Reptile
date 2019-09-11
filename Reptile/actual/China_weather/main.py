@@ -7,6 +7,7 @@ __date__: '2019/9/9 0009 19:59'
 '''
 import requests
 from bs4 import BeautifulSoup
+from pyecharts.charts import Bar,Geo
 
 
 URL = 'http://www.weather.com.cn/textFC/{}.shtml'
@@ -17,14 +18,20 @@ HEADERS = {
     'Referer': 'http://www.weather.com.cn/static/html/weather.shtml'
 }
 
+# 储存所有数据
+ALL_DATA = []
+
 
 def get_url(url):
     response = requests.get(url=url, headers=HEADERS)
     text = response.content.decode('utf-8')
+
     return text
 
 
+
 def parse_html(html):
+    global ALL_DATA
     '''
     获取所有城市的天气信息：
         1、先获取包裹数据的大盒子
@@ -32,9 +39,6 @@ def parse_html(html):
         3、过滤table中的前两个tr。获取其他tr的数据
         :param html:  网页
     '''
-
-    # 储存所有数据
-    weathers = []
 
     # gat的源码不规范。lxml（c解析器）识别不了。所以使用 html5lib（浏览器解析器）
     soup = BeautifulSoup(html, "html5lib")
@@ -57,11 +61,10 @@ def parse_html(html):
 
                 weather = {}  # 定义数据，放在遍历最多中
 
-                # 日期
-                days_trs = table.find_all('tr')[0]
-                day = list(days_trs.find_all('td')[-2].stripped_strings)[0]
-                weather['日期'] = day
-
+                # # 日期
+                # days_trs = table.find_all('tr')[0]
+                # day = list(days_trs.find_all('td')[-2].stripped_strings)[0]
+                # weather['日期'] = day
 
 
                 # 最终天气数据：tds是个列表
@@ -81,51 +84,58 @@ def parse_html(html):
 
                 city_name = list(city_td.stripped_strings)[0]  # 获取城市非标签字符串
                 city_href = city_td.find('a')['href']
-                weather['城市名'] = city_name
-                weather['城市链接'] = city_href
+                weather['city'] = city_name
+                # weather['城市链接'] = city_href
 
-                # 天气现象
-                phenomenon_td = tds[-3]
-                phenomenon = list(phenomenon_td.stripped_strings)[0]
-                weather['天气现象'] = phenomenon
+                # # 天气现象
+                # phenomenon_td = tds[-3]
+                # phenomenon = list(phenomenon_td.stripped_strings)[0]
+                # weather['天气现象'] = phenomenon
 
                 # 最低气温
                 temp_td = tds[-2]
                 min_temp = list(temp_td.stripped_strings)[0]
-                weather['最低气温'] = min_temp
+                weather['min_temp'] = int(min_temp)
 
-                # print(weather)
-                weathers.append(weather)
+                # 把全部数据存入全局变量
+                ALL_DATA.append(weather)
 
             # # 获取一个省份
-            # break
-                print(weather)
-
-    return weathers
-
+        break
 
 
 def main():
     regions = ['hb', 'db', 'hd', 'hz', 'hn', 'xb', 'xn', 'gat']  # gat 的源码不规范
     for index, region in enumerate(regions):
-        # import time
-        # time.sleep(0.5)
-        # print("爬取 %s 条数据：" % (index + 1))
 
         # 获取url
         url = URL.format(region)
         html = get_url(url)
 
+
         # 规则网页
         parse_html(html)
 
-    # symbol = '='*30
-    # print("%s爬取完成%s" %(symbol, symbol))
 
-    # # 获取url
-    # html = get_url(URL)
+        # 数据可视化（数据分析）
+        # 根据最低气温排序
+        ALL_DATA.sort(key=lambda data: data['min_temp'])
+        data = ALL_DATA[:10]  # 取前十个
 
+        # 从列表元素（字典），获取值。
+        # 方法1、遍历列表，获取列表的字典的值，再把这些值放入新列表；方法2、map
+        # 全部城市
+        citys = list(map(lambda x:x['city'], data))
+        # 全部天气
+        min_temps = list(map(lambda x:x['min_temp'], data))
 
+        # pyechars
+        bar = Bar()  # 初始化
+        bar.add_xaxis(citys)
+        bar.add_yaxis("城市", min_temps)
+        # render 会生成本地 HTML 文件，默认会在当前目录生成 render.html 文件
+        # 也可以传入路径参数，如 bar.render("mycharts.html")
+        bar.render("mycharts.html")
 
 
 if __name__ == '__main__':

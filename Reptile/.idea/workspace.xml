@@ -3,12 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0662bd11-cc1e-4a2a-8857-8884c175f594" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douban_spider/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/actual/douban_spider/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/douban_spider/douban_show.py" beforeDir="false" afterPath="$PROJECT_DIR$/actual/douban_spider/douban_show.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dytt_spider/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/actual/dytt_spider/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dytt_spider/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/actual/dytt_spider/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenxun_job/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/actual/tenxun_job/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tenxun_job/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/actual/tenxun_job/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actual/China_weather/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/actual/China_weather/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actual/dytt_spider/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/actual/dytt_spider/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actual/tenxun_job/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/actual/tenxun_job/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,17 +20,18 @@
     <SUITE FILE_PATH="coverage/Reptile$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1567435607013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/请求包" />
     <SUITE FILE_PATH="coverage/Reptile$daili_ip.coverage" NAME="daili_ip Coverage Results" MODIFIED="1567503960241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/请求包" />
     <SUITE FILE_PATH="coverage/Reptile$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1567176339568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Reptile$main.coverage" NAME="main Coverage Results" MODIFIED="1568037671058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/China_weather" />
+    <SUITE FILE_PATH="coverage/Reptile$main.coverage" NAME="main Coverage Results" MODIFIED="1568208463986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/China_weather" />
     <SUITE FILE_PATH="coverage/Reptile$douban_show.coverage" NAME="douban_show Coverage Results" MODIFIED="1567749650167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban_spider" />
     <SUITE FILE_PATH="coverage/Reptile$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1567938961303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautiful 4" />
     <SUITE FILE_PATH="coverage/Reptile$selec__css_.coverage" NAME="selec 与 css 选择器 Coverage Results" MODIFIED="1567945083289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautiful 4" />
     <SUITE FILE_PATH="coverage/Reptile$simulation_login.coverage" NAME="simulation_login Coverage Results" MODIFIED="1567180938387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Reptile$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1567842477555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tenxun_job" />
+    <SUITE FILE_PATH="coverage/Reptile$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1568126680087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/tenxun_job" />
     <SUITE FILE_PATH="coverage/Reptile$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1567956917410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautiful 4" />
     <SUITE FILE_PATH="coverage/Reptile$load_save_Cookie.coverage" NAME="load-save-Cookie Coverage Results" MODIFIED="1567427095895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Reptile$lxmxpath.coverage" NAME="lxm和xpath结合使用 Coverage Results" MODIFIED="1567744335144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/x p a t" />
     <SUITE FILE_PATH="coverage/Reptile$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1567651269326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/x p a t" />
     <SUITE FILE_PATH="coverage/Reptile$daPeng.coverage" NAME="daPeng Coverage Results" MODIFIED="1567504274676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/请求包" />
+    <SUITE FILE_PATH="coverage/Reptile$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1568212616897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/充气娃娃" />
     <SUITE FILE_PATH="coverage/Reptile$test_post.coverage" NAME="test_post Coverage Results" MODIFIED="1567502504322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/请求包" />
     <SUITE FILE_PATH="coverage/Reptile$basic_use.coverage" NAME="basic_use Coverage Results" MODIFIED="1567938984080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautiful 4" />
   </component>
@@ -42,11 +40,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/actual/China_weather/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+            <state relative-caret-position="109">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="e#103#118#0" expanded="true" />
               </folding>
@@ -54,14 +52,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beautiful 4/basic_use.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/actual/充气娃娃/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="159" column="55" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="55" />
+            <state relative-caret-position="82">
+              <caret line="61" column="7" lean-forward="true" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
               <folding>
-                <element signature="e#122#4004#0" />
+                <element signature="e#77#116#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="mock:///[">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="mock:///fetchJSON_comment98vv6930(">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5264">
+              <caret line="188" column="11" selection-start-line="188" selection-start-column="3" selection-end-line="188" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -90,6 +102,9 @@
       <find>detail-bottom-text</find>
       <find>job-title</find>
       <find>info-primary</find>
+      <find>etree</find>
+      <find>weather</find>
+      <find>Geo</find>
     </findStrings>
     <replaceStrings>
       <replace>PostIds</replace>
@@ -128,11 +143,14 @@
         <option value="$PROJECT_DIR$/beautiful 4/basic_use.py" />
         <option value="$PROJECT_DIR$/beautiful 4/demo1.py" />
         <option value="$PROJECT_DIR$/beautiful 4/selec 与 css 选择器.py" />
+        <option value="$PROJECT_DIR$/actual/tenxun_job/main.py" />
+        <option value="$PROJECT_DIR$/actual/dytt_spider/main.py" />
         <option value="$PROJECT_DIR$/actual/China_weather/main.py" />
+        <option value="$PROJECT_DIR$/actual/充气娃娃/main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
     <option name="y" value="75" />
     <option name="width" value="1020" />
@@ -162,17 +180,7 @@
               <item name="Reptile" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reptile" type="462c0819:PsiDirectoryNode" />
               <item name="actual" type="462c0819:PsiDirectoryNode" />
-              <item name="China_weather" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reptile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reptile" type="462c0819:PsiDirectoryNode" />
-              <item name="beautiful 4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Reptile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Reptile" type="462c0819:PsiDirectoryNode" />
-              <item name="请求包" type="462c0819:PsiDirectoryNode" />
+              <item name="充气娃娃" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,6 +200,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitDesk\github\21-Reptile\Reptile\actual\充气娃娃" />
       <recent name="E:\GitDesk\github\21-Reptile\Reptile\actual" />
       <recent name="C:\Users\Administrator\PycharmProjects\Reptile\urllib" />
     </key>
@@ -208,29 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="basic_use" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Reptile" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beautiful 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beautiful 4/basic_use.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main (2)">
     <configuration name="demo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Reptile" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,6 +232,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beautiful 4/demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reptile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/actual/tenxun_job" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/actual/tenxun_job/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reptile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/actual/充气娃娃" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/actual/充气娃娃/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,35 +328,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Reptile" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beautiful 4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beautiful 4/test2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.demo1" />
         <item itemvalue="Python.selec 与 css 选择器" />
-        <item itemvalue="Python.basic_use" />
-        <item itemvalue="Python.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -356,12 +365,14 @@
       <workItem from="1567831632466" duration="9994000" />
       <workItem from="1567921027809" duration="16915000" />
       <workItem from="1567955448400" duration="1553000" />
-      <workItem from="1568027412790" duration="8952000" />
+      <workItem from="1568027412790" duration="9686000" />
+      <workItem from="1568126256898" duration="1578000" />
+      <workItem from="1568200674646" duration="10998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105794000" />
+    <option name="totallyTimeSpent" value="119104000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,16 +384,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49703264" visible="true" weight="0.14026846" />
-      <window_info id="Structure" order="1" sideWeight="0.50296736" side_tool="true" visible="true" weight="0.14026846" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4943182" visible="true" weight="0.1442953" />
+      <window_info id="Structure" order="1" sideWeight="0.5056818" side_tool="true" visible="true" weight="0.1442953" />
       <window_info id="Favorites" order="2" sideWeight="0.50142044" side_tool="true" weight="0.13825503" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.042613637" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5255682" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328125" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.4190341" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.12926136" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -390,13 +401,13 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.5651558" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.042613637" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.41477272" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3295302" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -430,37 +441,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/爬虫前奏包/urlparse和urlsplit/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫前奏包/parse的urlencode和parse_qs函数/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫前奏包/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/python3.6.5/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="575" column="4" selection-start-line="575" selection-start-column="4" selection-end-line="575" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cookie.txt" />
-    <entry file="file://$PROJECT_DIR$/cookies.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/python3.6.5/Lib/http/cookiejar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57680">
@@ -701,25 +681,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/actual/dytt_spider/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2324">
-          <caret line="84" column="18" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="44" />
-          <folding>
-            <element signature="e#111#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/actual/dytt_spider/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actual/tenxun_job/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/actual/tenxun_job/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -747,7 +710,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/beautiful 4/basic_use.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="2212">
           <caret line="159" column="55" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="55" />
           <folding>
             <element signature="e#122#4004#0" />
@@ -755,12 +718,103 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/actual/dytt_spider/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+          <folding>
+            <element signature="e#111#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual/tenxun_job/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="e#129#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/pyecharts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="54" lean-forward="true" selection-start-line="1" selection-start-column="54" selection-end-line="1" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/pyecharts/charts/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual/China_weather/mycharts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-616">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual/China_weather/mychart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/pyecharts/charts/basic_charts/geo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/actual/China_weather/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+        <state relative-caret-position="109">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#103#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual/充气娃娃/jd_comment.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/wordcloud/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual/充气娃娃/wawa.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="2769" selection-start-line="2769" selection-end-line="2769" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual/充气娃娃/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="61" column="7" lean-forward="true" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
+          <folding>
+            <element signature="e#77#116#0" expanded="true" />
           </folding>
         </state>
       </provider>
