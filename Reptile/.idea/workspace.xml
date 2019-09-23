@@ -3,6 +3,36 @@
   <component name="ChangeListManager">
     <list default="true" id="0662bd11-cc1e-4a2a-8857-8884c175f594" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actual/充气娃娃/jd_comment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/actual/inflatable doll/jd_comment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actual/充气娃娃/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/actual/inflatable doll/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actual/充气娃娃/wawa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/actual/inflatable doll/wawa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actual/古诗文/mian.py" beforeDir="false" afterPath="$PROJECT_DIR$/actual/古诗文/mian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beautiful 4/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/beautiful 4/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beautiful 4/basic_use.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/beautiful 4/basic_use.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beautiful 4/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/beautiful 4/demo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beautiful 4/selec 与 css 选择器.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/beautiful 4/selec 与 css 选择器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x p a t/lxm和xpath结合使用.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/x p a t/lxm和xpath结合使用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x p a t/tenxun.html" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/x p a t/tenxun.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/x p a t/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/x p a t/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/正则/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则/matc_h/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/正则/matc_h/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则/matc_h/mian.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/正则/matc_h/mian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则/matc_h/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/正则/matc_h/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则/分组/mian.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/正则/分组/mian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则/匹配多个字符/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/正则/匹配多个字符/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则/正则常用模块/mian.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/正则/正则常用模块/mian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/正则/转义字符和原生字符串/mian.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/正则/转义字符和原生字符串/mian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫前奏包/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/爬虫前奏包/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫前奏包/parse的urlencode和parse_qs函数/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/爬虫前奏包/parse的urlencode和parse_qs函数/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫前奏包/parse的urlencode和parse_qs函数/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/爬虫前奏包/parse的urlencode和parse_qs函数/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫前奏包/urlparse和urlsplit/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/爬虫前奏包/urlparse和urlsplit/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫前奏包/urlparse和urlsplit/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/爬虫前奏包/urlparse和urlsplit/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/请求包/baidu.html" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/请求包/baidu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/请求包/daPeng.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/请求包/daPeng.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/请求包/daili_ip.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/请求包/daili_ip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/请求包/ren.html" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/请求包/ren.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/请求包/test_get.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/请求包/test_get.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/请求包/test_post.py" beforeDir="false" afterPath="$PROJECT_DIR$/数据抓取/请求包/test_post.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,29 +41,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Reptile$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1567173121962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Reptile$mian__4_.coverage" NAME="mian (4) Coverage Results" MODIFIED="1568607831382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则/正则常用模块" />
+    <SUITE FILE_PATH="coverage/Reptile$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1569162932776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据存储/连接mysql" />
     <SUITE FILE_PATH="coverage/Reptile$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1568561393007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则/匹配多个字符" />
     <SUITE FILE_PATH="coverage/Reptile$douban_show.coverage" NAME="douban_show Coverage Results" MODIFIED="1567749650167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban_spider" />
     <SUITE FILE_PATH="coverage/Reptile$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1567938961303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautiful 4" />
-    <SUITE FILE_PATH="coverage/Reptile$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1568126680087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/tenxun_job" />
+    <SUITE FILE_PATH="coverage/Reptile$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1569140962711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/c s v s文件/写入csv文件" />
+    <SUITE FILE_PATH="coverage/Reptile$demo1__1_.coverage" NAME="demo1 (1) Coverage Results" MODIFIED="1569163102152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据存储/连接mysql" />
     <SUITE FILE_PATH="coverage/Reptile$lxmxpath.coverage" NAME="lxm和xpath结合使用 Coverage Results" MODIFIED="1567744335144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/x p a t" />
     <SUITE FILE_PATH="coverage/Reptile$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1567651269326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/x p a t" />
     <SUITE FILE_PATH="coverage/Reptile$mian__2_.coverage" NAME="mian (2) Coverage Results" MODIFIED="1568605368723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则/转义字符和原生字符串" />
     <SUITE FILE_PATH="coverage/Reptile$daPeng.coverage" NAME="daPeng Coverage Results" MODIFIED="1567504274676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/请求包" />
-    <SUITE FILE_PATH="coverage/Reptile$mian.coverage" NAME="mian Coverage Results" MODIFIED="1568796111488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/古诗文" />
+    <SUITE FILE_PATH="coverage/Reptile$mian.coverage" NAME="mian Coverage Results" MODIFIED="1569162531421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/古诗文" />
     <SUITE FILE_PATH="coverage/Reptile$test_post.coverage" NAME="test_post Coverage Results" MODIFIED="1567502504322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/请求包" />
     <SUITE FILE_PATH="coverage/Reptile$test.coverage" NAME="test Coverage Results" MODIFIED="1568265121373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则/matc_h" />
     <SUITE FILE_PATH="coverage/Reptile$mian__3_.coverage" NAME="mian (3) Coverage Results" MODIFIED="1568606549567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则/分组" />
     <SUITE FILE_PATH="coverage/Reptile$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1567435607013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/请求包" />
     <SUITE FILE_PATH="coverage/Reptile$daili_ip.coverage" NAME="daili_ip Coverage Results" MODIFIED="1567503960241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/请求包" />
-    <SUITE FILE_PATH="coverage/Reptile$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1567176339568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Reptile$main.coverage" NAME="main Coverage Results" MODIFIED="1568208463986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/China_weather" />
+    <SUITE FILE_PATH="coverage/Reptile$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1569162483817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据存储/c_s_v文件/写入csv文件" />
+    <SUITE FILE_PATH="coverage/Reptile$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1569165163661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据存储/连接mysql" />
+    <SUITE FILE_PATH="coverage/Reptile$main.coverage" NAME="main Coverage Results" MODIFIED="1568880409230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/百思不得姐" />
     <SUITE FILE_PATH="coverage/Reptile$selec__css_.coverage" NAME="selec 与 css 选择器 Coverage Results" MODIFIED="1567945083289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautiful 4" />
     <SUITE FILE_PATH="coverage/Reptile$simulation_login.coverage" NAME="simulation_login Coverage Results" MODIFIED="1567180938387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Reptile$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1567956917410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautiful 4" />
+    <SUITE FILE_PATH="coverage/Reptile$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1569051343262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jsonns文件处理" />
     <SUITE FILE_PATH="coverage/Reptile$load_save_Cookie.coverage" NAME="load-save-Cookie Coverage Results" MODIFIED="1567427095895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Reptile$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1568212616897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/充气娃娃" />
+    <SUITE FILE_PATH="coverage/Reptile$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1569141044925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/c s v s文件/读取csv文件" />
     <SUITE FILE_PATH="coverage/Reptile$basic_use.coverage" NAME="basic_use Coverage Results" MODIFIED="1567938984080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautiful 4" />
     <SUITE FILE_PATH="coverage/Reptile$mian__1_.coverage" NAME="mian (1) Coverage Results" MODIFIED="1568302445627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/周杰伦超话" />
   </component>
@@ -42,11 +74,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据存储/连接mysql/demo1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据存储/连接mysql/demo2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/数据存储/连接mysql/demo3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1133660827/math.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10360">
+              <caret line="370" column="4" selection-start-line="370" selection-start-column="4" selection-end-line="370" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据存储/c_s_v文件/写入csv文件/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1008">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/actual/古诗文/mian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="2268">
+              <caret line="84" column="47" selection-start-line="84" selection-start-column="47" selection-end-line="84" selection-end-column="47" />
               <folding>
                 <element signature="e#77#92#0" expanded="true" />
               </folding>
@@ -131,15 +208,26 @@
         <option value="$PROJECT_DIR$/正则/转义字符和原生字符串/mian.py" />
         <option value="$PROJECT_DIR$/正则/分组/mian.py" />
         <option value="$PROJECT_DIR$/正则/正则常用模块/mian.py" />
+        <option value="$PROJECT_DIR$/actual/百思不得姐/main.py" />
+        <option value="$PROJECT_DIR$/actual/inflatable doll/main.py" />
+        <option value="$PROJECT_DIR$/jsonns文件处理/demo1.py" />
+        <option value="$PROJECT_DIR$/c s v s文件/写入csv文件/idea.py" />
+        <option value="$PROJECT_DIR$/c s v s文件/idea.py" />
+        <option value="$PROJECT_DIR$/c s v s文件/写入csv文件/main.py" />
+        <option value="$PROJECT_DIR$/c s v s文件/读取csv文件/main.py" />
+        <option value="$PROJECT_DIR$/数据存储/c_s_v文件/写入csv文件/main.py" />
         <option value="$PROJECT_DIR$/actual/古诗文/mian.py" />
+        <option value="$PROJECT_DIR$/数据存储/连接mysql/demo2.py" />
+        <option value="$PROJECT_DIR$/数据存储/连接mysql/demo1.py" />
+        <option value="$PROJECT_DIR$/数据存储/连接mysql/demo3.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1055" />
-    <option name="y" value="35" />
-    <option name="width" value="960" />
-    <option name="height" value="675" />
+    <option name="x" value="180" />
+    <option name="y" value="205" />
+    <option name="width" value="910" />
+    <option name="height" value="705" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -150,14 +238,35 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Reptile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reptile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reptile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reptile" type="462c0819:PsiDirectoryNode" />
+              <item name="数据存储" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Reptile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Reptile" type="462c0819:PsiDirectoryNode" />
+              <item name="数据存储" type="462c0819:PsiDirectoryNode" />
+              <item name="连接mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/ERP/Django-ERP-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -165,9 +274,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\GitDesk\github\21-Reptile\Reptile\actual\充气娃娃" />
-      <recent name="E:\GitDesk\github\21-Reptile\Reptile\actual" />
-      <recent name="C:\Users\Administrator\PycharmProjects\Reptile\urllib" />
+      <recent name="E:\GitDesk\github\21-Reptile\Reptile\数据存储\c_s_v文件\读取csv文件" />
+      <recent name="E:\GitDesk\github\21-Reptile\Reptile\数据存储\c_s_v文件" />
+      <recent name="E:\GitDesk\github\21-Reptile\Reptile\数据存储" />
+      <recent name="E:\GitDesk\github\21-Reptile\Reptile\数据抓取" />
+      <recent name="E:\GitDesk\github\21-Reptile\Reptile\c s v s文件\写入csv文件" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -182,8 +293,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.mian">
-    <configuration name="mian (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demo3">
+    <configuration name="demo1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Reptile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,12 +302,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/正则/转义字符和原生字符串" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据存储/连接mysql" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正则/转义字符和原生字符串/mian.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据存储/连接mysql/demo1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +316,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mian (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Reptile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,12 +324,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/正则/分组" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据存储/连接mysql" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正则/分组/mian.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据存储/连接mysql/demo2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +338,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mian (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demo3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Reptile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,12 +346,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/正则/正则常用模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据存储/连接mysql" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正则/正则常用模块/mian.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据存储/连接mysql/demo3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reptile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据存储/c_s_v文件/写入csv文件" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据存储/c_s_v文件/写入csv文件/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,35 +404,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Reptile" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/正则/匹配多个字符" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/正则/匹配多个字符/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.demo3" />
+        <item itemvalue="Python.demo1 (1)" />
+        <item itemvalue="Python.demo2" />
         <item itemvalue="Python.mian" />
-        <item itemvalue="Python.mian (4)" />
-        <item itemvalue="Python.mian (3)" />
-        <item itemvalue="Python.mian (2)" />
-        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -342,11 +453,16 @@
       <workItem from="1568697457686" duration="654000" />
       <workItem from="1568784551487" duration="3257000" />
       <workItem from="1568819952514" duration="32000" />
+      <workItem from="1568862805411" duration="7291000" />
+      <workItem from="1568892470796" duration="110000" />
+      <workItem from="1569049459114" duration="2545000" />
+      <workItem from="1569131076333" duration="14437000" />
+      <workItem from="1569208860193" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140033000" />
+    <option name="totallyTimeSpent" value="164442000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -359,15 +475,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.88668555" visible="true" weight="0.19638069" />
-      <window_info id="Structure" order="1" sideWeight="0.11331445" side_tool="true" visible="true" weight="0.19638069" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7621951" visible="true" weight="0.20643431" />
+      <window_info id="Structure" order="1" sideWeight="0.23780487" side_tool="true" weight="0.19859155" />
       <window_info id="Favorites" order="2" sideWeight="0.50142044" side_tool="true" weight="0.13825503" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.328125" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.3555241" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.07954545" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32719547" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.33286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4220963" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -375,7 +490,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.5651558" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.41477272" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2719547" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -407,227 +522,24 @@
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/beautiful 4/basic_use.py</url>
+          <url>file://$PROJECT_DIR$/数据抓取/beautiful 4/basic_use.py</url>
           <line>147</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/数据存储/连接mysql/demo2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/数据存储/连接mysql/demo3.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#202#228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288">
-          <caret line="16" column="136" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="136" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/load-save-Cookie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-218">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#280#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/请求包/ren.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="248" column="19" selection-start-line="248" selection-start-column="19" selection-end-line="261" selection-end-column="25" />
-          <folding>
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/python3.6.5/Lib/xml/sax/xmlreader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/x p a t/tenxun.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/x p a t/lxm和xpath结合使用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/请求包/test_post.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="45" column="22" lean-forward="true" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/x p a t/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/requests/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22176">
-          <caret line="825" column="36" selection-start-line="825" selection-start-column="36" selection-end-line="825" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daPeng.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13524">
-          <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#6;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#8;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#a#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#26082#26088#0" expanded="true" />
-            <element signature="e#30868#30874#0" expanded="true" />
-            <element signature="e#31870#31876#0" expanded="true" />
-            <element signature="n#style#0;n#p#5;n#div#2;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#span#7;n#p#5;n#div#2;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#8;n#p#5;n#div#2;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#36989#36995#0" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#11;n#p#5;n#div#2;n#div#4;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/renren.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6580">
-          <caret line="10" column="89" lean-forward="true" selection-start-line="10" selection-start-column="89" selection-end-line="10" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beautiful 4/test2.py" />
-    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/tokenize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="451" selection-start-line="451" selection-end-line="451" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1133660827/lxml/etree/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="451" lean-forward="true" selection-start-line="451" selection-end-line="451" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/bs4/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10616">
-          <caret line="176" lean-forward="true" selection-start-line="176" selection-end-line="176" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/bs4/element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="820" column="10" selection-start-line="820" selection-start-column="10" selection-end-line="820" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beautiful 4/demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beautiful 4/selec 与 css 选择器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-          <folding>
-            <element signature="e#85#114#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actual/douban_spider/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actual/douban_spider/douban_show.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#76#91#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actual/dytt_spider/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actual/tenxun_job/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/请求包/daPeng.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/请求包/baidu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/beautiful 4/basic_use.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2212">
-          <caret line="159" column="55" selection-start-line="159" selection-start-column="39" selection-end-line="159" selection-end-column="55" />
-          <folding>
-            <element signature="e#122#4004#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/actual/dytt_spider/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -686,7 +598,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/actual/充气娃娃/jd_comment.txt">
+    <entry file="file://$PROJECT_DIR$/actual/inflatable doll/jd_comment.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/wordcloud/__init__.py">
@@ -699,7 +611,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/actual/充气娃娃/wawa.jpg">
+    <entry file="file://$PROJECT_DIR$/actual/inflatable doll/wawa.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/PIL/Image.py">
@@ -709,27 +621,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/actual/充气娃娃/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#77#116#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/actual/周杰伦超话/mian.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
           <caret line="128" selection-start-line="128" selection-end-line="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1133660827/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100968">
-          <caret line="3606" column="12" selection-start-line="3606" selection-start-column="12" selection-end-line="3606" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -743,48 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/正则/匹配多个字符/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-435">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/正则/matc_h/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/正则/matc_h/mian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/正则/正则常用模块/mian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/正则/分组/mian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/正则/转义字符和原生字符串/mian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -792,13 +645,241 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/actual/古诗文/mian.py">
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/random.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="200">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1133660827/lxml/etree/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="222" column="4" selection-start-line="222" selection-start-column="4" selection-end-line="222" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual/inflatable doll/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual/百思不得姐/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1010">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#77#92#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3.6.5/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7588">
+          <caret line="273" column="4" selection-start-line="273" selection-start-column="4" selection-end-line="273" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/sunbitty(1)/sunbitty/time.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1133660827/_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="100" column="7" lean-forward="true" selection-start-line="100" selection-start-column="7" selection-end-line="100" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="540" lean-forward="true" selection-start-line="540" selection-end-line="540" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1133660827/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="341" column="4" selection-start-line="341" selection-start-column="4" selection-end-line="341" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据抓取/正则/分组/mian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据抓取/正则/matc_h/mian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据抓取/正则/matc_h/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据抓取/正则/matc_h/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据抓取/正则/匹配多个字符/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据抓取/正则/正则常用模块/mian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据抓取/正则/转义字符和原生字符串/mian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据抓取/正则/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据抓取/爬虫前奏包/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据抓取/爬虫前奏包/urlparse和urlsplit/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据存储/jsonns文件处理/emp.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据存储/jsonns文件处理/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="21" column="65" lean-forward="true" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据存储/c_s_v文件/idea.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据存储/c_s_v文件/读取csv文件/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/pymysql/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="92" column="35" selection-start-line="92" selection-start-column="35" selection-end-line="92" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3376">
+          <caret line="353" lean-forward="true" selection-start-line="353" selection-end-line="353" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/pymysql/connections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="183" column="25" selection-start-line="183" selection-start-column="17" selection-end-line="183" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据存储/c_s_v文件/写入csv文件/classroom.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据存储/c_s_v文件/写入csv文件/classroom_dict.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/python3.6.5/Lib/csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="157" selection-start-line="157" selection-end-line="157" />
+          <folding>
+            <element signature="e#52#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual/古诗文/modern.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/math.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-672" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据存储/连接mysql/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据存储/连接mysql/demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1133660827/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10360">
+          <caret line="370" column="4" selection-start-line="370" selection-start-column="4" selection-end-line="370" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据存储/c_s_v文件/写入csv文件/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actual/古诗文/mian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2268">
+          <caret line="84" column="47" selection-start-line="84" selection-start-column="47" selection-end-line="84" selection-end-column="47" />
+          <folding>
+            <element signature="e#77#92#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据存储/连接mysql/demo3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>

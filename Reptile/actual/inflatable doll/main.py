@@ -2,6 +2,11 @@
 __author__: '田敏伦'
 __date__: '2019/9/11 0011 20:50'
 
+'''
+爬取京东，充气娃娃评论
+'''
+
+
 import requests, json, os, time, random
 
 # 分词
