@@ -44,7 +44,7 @@ db.close()
 for i in range(100000):
     import math
 
-    # 对每个数进行 + 100，在开平方（取整）
+    # 每个数都进行 + 100，在开平方（取整）
     x = int(math.sqrt(i + 100))
     y = int(math.sqrt(i + 268))
 
