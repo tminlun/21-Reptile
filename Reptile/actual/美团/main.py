@@ -48,8 +48,9 @@ if __name__ == '__main__':
 
     import re
 
-    city_js = r'[t("map-info", {attrs: {pois: e.poi}})], 1)])},staticRenderFns: []};n.a=i}, function(e, n) {e.exports={data: [.*]}}, function(e, n, t) {"use strict";Object.defineProperty(n, "__esModule", {value: !0});var i, a=t(6), r=(i=a) & & i.__esModule ? i: {'
+    # city_js = r'[t("map-info", {attrs: {pois: e.poi}})], 1)])},staticRenderFns: []};n.a=i}, function(e, n) {e.exports={data: [.*]}}, function(e, n, t) {"use strict";Object.defineProperty(n, "__esModule", {value: !0});var i, a=t(6), r=(i=a) & & i.__esModule ? i: {'
+    #
+    # ret = re.findall(r'.*?data:\s+(.*?)}.*', text, re.DOTALL)
 
-    ret = re.findall(r'.*?data:\s+(.*?)}.*', text, re.DOTALL)
 
-    print(ret)
+    print(text)
