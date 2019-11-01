@@ -1,5 +1,4 @@
 # _*_ encoding:utf-8 _*_
-import requests
 __author__: '田敏伦'
 __date__: '2019/9/25 0025 16:51'
 
@@ -16,6 +15,8 @@ __date__: '2019/9/25 0025 16:51'
     startDay=20190925&endDay=20190925：入住时间
 
 '''
+
+import re, requests
 
 page1_url = 'https://ihotel.meituan.com/hbsearch/HotelSearch?utm_medium=pc&' \
             'version_name=999.9&cateId=20&attr_28=129&uuid=DA6517961BC38FF29DAEBDAB7804E2B54D1C4D11CC32AB2A2BA2D41178E9E9A1%401569400985918&cityId=92&offset=0&limit=20&startDay=20190925&endDay=20190925' \
@@ -42,15 +43,16 @@ if __name__ == '__main__':
     # text = response.content.decode('utf-8')
     text = response.text
 
+    # 判断字符编码
     # import chardet
     #
     # print(chardet.detect(response.content))
 
-    import re
-
-    # city_js = r'[t("map-info", {attrs: {pois: e.poi}})], 1)])},staticRenderFns: []};n.a=i}, function(e, n) {e.exports={data: [.*]}}, function(e, n, t) {"use strict";Object.defineProperty(n, "__esModule", {value: !0});var i, a=t(6), r=(i=a) & & i.__esModule ? i: {'
-    #
-    # ret = re.findall(r'.*?data:\s+(.*?)}.*', text, re.DOTALL)
+    # 匹配数据
 
 
-    print(text)
+    # re_city = re.findall(r'function.*?e.exports .*?data: \[(.*?)\]', text)
+
+
+
+    # print(re_city)
