@@ -86,10 +86,8 @@ class QiangPiao(object):
         fromStationText = self.driver.find_element_by_xpath('//input[@id="fromStationText"]')
         fromStationText.clear()  # 清除input的value
         fromStationText.click()  # 点击才会弹出城市列表
-
         time.sleep(2)
         fromStationText.send_keys(self.from_station)
-
 
         # 点击
         time.sleep(2)
@@ -105,7 +103,6 @@ class QiangPiao(object):
         fromStationText = self.driver.find_element_by_xpath('//input[@id="toStationText"]')
         fromStationText.clear()  # 清除input的value
         fromStationText.click()  # 点击才会弹出城市列表
-
         time.sleep(2)
         fromStationText.send_keys(self.to_station)
 
