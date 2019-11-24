@@ -17,10 +17,9 @@ ROBOTSTXT_OBEY = False  # Step 1: must be False
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 
-# Configure a delay for requests for the same website (default: 0)
-# See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
-# See also autothrottle settings and docs
-#DOWNLOAD_DELAY = 3
+# time.sleep(1)
+DOWNLOAD_DELAY = 1
+
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
@@ -62,7 +61,7 @@ DEFAULT_REQUEST_HEADERS = {
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'qsbk.pipelines.QsbkPipeline': 300,  # k pipelines路径；v 优先级(值越小优先级越大)
+   'qsbk.pipelines.QsbkPipeline': 300,  # KEY pipelines's path；VALUE Priority (the smaller the value, the higher the priority)
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

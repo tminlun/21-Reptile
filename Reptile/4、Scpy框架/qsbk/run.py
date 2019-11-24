@@ -3,7 +3,7 @@ __author__: '田敏伦'
 __date__: '2019/11/21 0021 19:31'
 
 '''
-运行scrapy命令
+run scrapy
 '''
 from scrapy import cmdline
 

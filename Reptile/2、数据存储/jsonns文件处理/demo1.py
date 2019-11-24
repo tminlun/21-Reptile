@@ -5,9 +5,11 @@ __date__: '2019/9/21 0021 15:17'
 import json
 
 '''
-json的dumps和dump序列化时对中文默认使用的ascii编码，所以会引起中文编码问题
-dump  将py基本数据格式，系列化为json（写入  open(filename, 'w')）文件
-load  将json数据类型，反系列化（读取 open(filename, 'r')）文件
+1、将dict类型存储到json文件，需要dumps
+2、json的dumps和dump序列化时对中文默认使用的ascii编码，所以会引起中文编码问题
+3、
+    dump  将py基本数据格式，系列化为json（写入  open(filename, 'w')）文件
+    load  将json数据类型，反系列化（读取 open(filename, 'r')）文件
 '''
 
 # 1、将py基本数据类型，转换为json字符串类型
