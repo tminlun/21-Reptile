@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0662bd11-cc1e-4a2a-8857-8884c175f594" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Reptile.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Reptile.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2、数据存储/jsonns文件处理/demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2、数据存储/jsonns文件处理/demo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4、Scpy框架/qsbk/budejie.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/spiders/qiumeimei.py" beforeDir="false" afterPath="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/spiders/qiumeimei.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4、Scpy框架/qsbk/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/4、Scpy框架/qsbk/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4、Scpy框架/qsbk/budejie.json" beforeDir="false" afterPath="$PROJECT_DIR$/4、Scpy框架/qsbk/budejie.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +14,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Reptile$mian__4_.coverage" NAME="mian (4) Coverage Results" MODIFIED="1568607831382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则/正则常用模块" />
     <SUITE FILE_PATH="coverage/Reptile$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1569162932776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据存储/连接mysql" />
+    <SUITE FILE_PATH="coverage/Reptile$wxapp_spider.coverage" NAME="wxapp_spider Coverage Results" MODIFIED="1575039527741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4、Scpy框架/wxapp/wxapp/spiders" />
     <SUITE FILE_PATH="coverage/Reptile$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1568561393007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则/匹配多个字符" />
     <SUITE FILE_PATH="coverage/Reptile$douban_show.coverage" NAME="douban_show Coverage Results" MODIFIED="1567749650167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douban_spider" />
     <SUITE FILE_PATH="coverage/Reptile$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1567938961303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautiful 4" />
@@ -28,6 +22,7 @@
     <SUITE FILE_PATH="coverage/Reptile$demo1__1_.coverage" NAME="demo1 (1) Coverage Results" MODIFIED="1569163102152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据存储/连接mysql" />
     <SUITE FILE_PATH="coverage/Reptile$Lock.coverage" NAME="Lock消费者和生产者 Coverage Results" MODIFIED="1570525094306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫进阶/多线程爬虫" />
     <SUITE FILE_PATH="coverage/Reptile$multithreading_main.coverage" NAME="multithreading_main Coverage Results" MODIFIED="1570889374759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫进阶/多线程爬虫/爬取斗图啦之多线程爬虫" />
+    <SUITE FILE_PATH="coverage/Reptile$run__2_.coverage" NAME="run (2) Coverage Results" MODIFIED="1575084562199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4、Scpy框架/baidu" />
     <SUITE FILE_PATH="coverage/Reptile$lxmxpath.coverage" NAME="lxm和xpath结合使用 Coverage Results" MODIFIED="1567744335144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/x p a t" />
     <SUITE FILE_PATH="coverage/Reptile$cookie.coverage" NAME="操作cookie Coverage Results" MODIFIED="1571373457372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫进阶/12seleniu+chromedrive安装和入门" />
     <SUITE FILE_PATH="coverage/Reptile$_.coverage" NAME="看书网注册-图形验证码 Coverage Results" MODIFIED="1572341619182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫进阶/tesser识别图片" />
@@ -39,7 +34,7 @@
     <SUITE FILE_PATH="coverage/Reptile$test_post.coverage" NAME="test_post Coverage Results" MODIFIED="1567502504322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/请求包" />
     <SUITE FILE_PATH="coverage/Reptile$test.coverage" NAME="test Coverage Results" MODIFIED="1568265121373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则/matc_h" />
     <SUITE FILE_PATH="coverage/Reptile$pipelines.coverage" NAME="pipelines Coverage Results" MODIFIED="1574346637571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk" />
-    <SUITE FILE_PATH="coverage/Reptile$run.coverage" NAME="run Coverage Results" MODIFIED="1574406411316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4、Scpy框架/qsbk" />
+    <SUITE FILE_PATH="coverage/Reptile$run.coverage" NAME="run Coverage Results" MODIFIED="1575083520156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4、Scpy框架/qsbk" />
     <SUITE FILE_PATH="coverage/Reptile$mian__3_.coverage" NAME="mian (3) Coverage Results" MODIFIED="1568606549567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则/分组" />
     <SUITE FILE_PATH="coverage/Reptile$ip.coverage" NAME="使用代理ip Coverage Results" MODIFIED="1571404959609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫进阶/seleniu+chromedrive安装和入门" />
     <SUITE FILE_PATH="coverage/Reptile$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1567435607013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/请求包" />
@@ -61,6 +56,7 @@
     <SUITE FILE_PATH="coverage/Reptile$seleniu.coverage" NAME="根据seleniu模拟 Coverage Results" MODIFIED="1571751989488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫进阶/拉钩" />
     <SUITE FILE_PATH="coverage/Reptile$basic_use.coverage" NAME="basic_use Coverage Results" MODIFIED="1567938984080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beautiful 4" />
     <SUITE FILE_PATH="coverage/Reptile$mian__1_.coverage" NAME="mian (1) Coverage Results" MODIFIED="1568302445627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/actual/周杰伦超话" />
+    <SUITE FILE_PATH="coverage/Reptile$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1575043483215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4、Scpy框架/wxapp" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -82,19 +78,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/spiders/qiumeimei.py">
+        <entry file="file://$PROJECT_DIR$/4、Scpy框架/baidu/baidu/spiders/baidu_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+            <state relative-caret-position="489">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4、Scpy框架/qsbk/budejie.json">
+        <entry file="file://$PROJECT_DIR$/4、Scpy框架/baidu/baidu/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            <state relative-caret-position="1876">
+              <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4、Scpy框架/baidu/baidu/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4、Scpy框架/baidu/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -132,6 +149,7 @@
       <find>WebDriverWait</find>
       <find>linkman</find>
       <find>start_exporting</find>
+      <find>ITEM_PIPELINES</find>
     </findStrings>
     <replaceStrings>
       <replace>PostIds</replace>
@@ -143,14 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/数据存储/c_s_v文件/写入csv文件/main.py" />
-        <option value="$PROJECT_DIR$/actual/百思不得姐/commits.csv" />
-        <option value="$PROJECT_DIR$/actual/百思不得姐/main.py" />
-        <option value="$PROJECT_DIR$/actual/去哪儿（国庆景点）/mian.py" />
-        <option value="$PROJECT_DIR$/actual/去哪儿（国庆景点）/main.py" />
-        <option value="$PROJECT_DIR$/actual/去哪儿（国庆景点）/hot_map_template.html" />
-        <option value="$PROJECT_DIR$/actual/去哪儿（国庆景点）/place_analysis.py" />
-        <option value="$PROJECT_DIR$/爬虫进阶/多线程爬虫/Lock消费者和生产者.py" />
         <option value="$PROJECT_DIR$/爬虫进阶/多线程爬虫/Condition锁.py" />
         <option value="$PROJECT_DIR$/数据抓取/请求包/test_get.py" />
         <option value="$PROJECT_DIR$/demo3.py" />
@@ -194,12 +204,20 @@
         <option value="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/settings.py" />
         <option value="$PROJECT_DIR$/4、Scpy框架/qsbk/budejie.json" />
         <option value="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/spiders/qiumeimei.py" />
+        <option value="$PROJECT_DIR$/4、Scpy框架/wxapp/run.py" />
+        <option value="$PROJECT_DIR$/4、Scpy框架/wxapp/wxapp/settings.py" />
+        <option value="$PROJECT_DIR$/4、Scpy框架/wxapp/wxapp/pipelines.py" />
+        <option value="$PROJECT_DIR$/4、Scpy框架/wxapp/wxapp/spiders/wxapp_spider.py" />
+        <option value="$PROJECT_DIR$/4、Scpy框架/baidu/run.py" />
+        <option value="$PROJECT_DIR$/4、Scpy框架/baidu/baidu/settings.py" />
+        <option value="$PROJECT_DIR$/4、Scpy框架/baidu/baidu/pipelines.py" />
+        <option value="$PROJECT_DIR$/4、Scpy框架/baidu/baidu/spiders/baidu_spider.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="180" />
-    <option name="y" value="205" />
+    <option name="x" value="-24" />
+    <option name="y" value="137" />
     <option name="width" value="910" />
     <option name="height" value="705" />
   </component>
@@ -228,21 +246,21 @@
               <item name="Reptile" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reptile" type="462c0819:PsiDirectoryNode" />
               <item name="4、Scpy框架" type="462c0819:PsiDirectoryNode" />
-              <item name="qsbk" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Reptile" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reptile" type="462c0819:PsiDirectoryNode" />
               <item name="4、Scpy框架" type="462c0819:PsiDirectoryNode" />
-              <item name="qsbk" type="462c0819:PsiDirectoryNode" />
-              <item name="qsbk" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Reptile" type="b2602c69:ProjectViewProjectNode" />
               <item name="Reptile" type="462c0819:PsiDirectoryNode" />
               <item name="4、Scpy框架" type="462c0819:PsiDirectoryNode" />
-              <item name="qsbk" type="462c0819:PsiDirectoryNode" />
-              <item name="qsbk" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu" type="462c0819:PsiDirectoryNode" />
               <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -282,73 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run">
-    <configuration name="看书网注册-图形验证码" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Reptile" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫进阶/tesser识别图片" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫进阶/tesser识别图片/看书网注册-图形验证码.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="操作表单元素" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Reptile" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫进阶/12seleniu+chromedrive安装和入门" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫进阶/12seleniu+chromedrive安装和入门/操作表单元素.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="模拟版本" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Reptile" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫进阶/boss直聘" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫进阶/boss直聘/模拟版本.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.run (2)">
     <configuration name="入门" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Reptile" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -481,28 +433,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Reptile" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫进阶/12306中国列车" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫进阶/12306中国列车/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="pipelines" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Reptile" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -525,7 +455,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="qiumeimei" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Reptile" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -533,12 +463,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/spiders" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4、Scpy框架/wxapp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/spiders/qiumeimei.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4、Scpy框架/wxapp/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reptile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4、Scpy框架/baidu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4、Scpy框架/baidu/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -569,21 +521,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="wxapp_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Reptile" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4、Scpy框架/wxapp/wxapp/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4、Scpy框架/wxapp/wxapp/spiders/wxapp_spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.操作表单元素" />
-      <item itemvalue="Python.main (1)" />
-      <item itemvalue="Python.看书网注册-图形验证码" />
-      <item itemvalue="Python.qiumeimei" />
+      <item itemvalue="Python.入门" />
       <item itemvalue="Python.run" />
       <item itemvalue="Python.pipelines" />
+      <item itemvalue="Python.run (1)" />
+      <item itemvalue="Python.wxapp_spider" />
+      <item itemvalue="Python.run (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run (2)" />
         <item itemvalue="Python.run" />
+        <item itemvalue="Python.run (1)" />
+        <item itemvalue="Python.wxapp_spider" />
         <item itemvalue="Python.pipelines" />
-        <item itemvalue="Python.qiumeimei" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.看书网注册-图形验证码" />
       </list>
     </recent_temporary>
   </component>
@@ -666,11 +640,14 @@
       <workItem from="1574324917231" duration="12459000" />
       <workItem from="1574393219732" duration="9406000" />
       <workItem from="1574427597447" duration="319000" />
+      <workItem from="1575028099767" duration="11752000" />
+      <workItem from="1575080544380" duration="4711000" />
+      <workItem from="1575250579987" duration="55000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350749000" />
+    <option name="totallyTimeSpent" value="367267000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -683,14 +660,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.23780487" side_tool="true" weight="0.19859155" />
       <window_info id="Favorites" order="1" sideWeight="0.50142044" side_tool="true" weight="0.13825503" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.7621951" visible="true" weight="0.18632708" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.7621951" visible="true" weight="0.116621986" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32719547" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.04249292" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" weight="0.4716714" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" weight="0.5226629" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" weight="0.305949" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
@@ -698,14 +676,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.44759208" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.19971672" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.29461756" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.16147308" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info anchor="right" id="SciView" order="4" weight="0.3295302" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32908848" />
       <window_info anchor="right" id="Database" order="5" weight="0.3297587" />
     </layout>
   </component>
@@ -750,92 +728,20 @@
           <line>118</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4、Scpy框架/wxapp/wxapp/spiders/wxapp_spider.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/spiders/qiumeimei.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="570" column="12" selection-start-line="570" selection-start-column="8" selection-end-line="570" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3、爬虫进阶/seleniu+chromedrive安装和入门/baidu.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3、爬虫进阶/seleniu+chromedrive安装和入门/操作表单元素.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3、爬虫进阶/seleniu+chromedrive安装和入门/使用代理ip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actual/tenxun_job/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1120" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/actual/周杰伦超话/mian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3、爬虫进阶/多线程爬虫/基于类的线程.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-224" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3、爬虫进阶/seleniu+chromedrive安装和入门/WebEle类介绍.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#78#108#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3、爬虫进阶/seleniu+chromedrive安装和入门/隐式等待和显示等待.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-          <folding>
-            <element signature="e#233#263#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/selenium/webdriver/support/wait.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="59" column="48" lean-forward="true" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3、爬虫进阶/seleniu+chromedrive安装和入门/多窗口和多窗口切换.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-394">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-444">
-          <caret line="615" column="8" selection-start-line="615" selection-start-column="8" selection-end-line="615" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3、爬虫进阶/多线程爬虫/Queue线程安全队列讲解.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
@@ -1060,13 +966,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4、Scpy框架/qsbk/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/scrapy/selector/unified.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -1102,20 +1001,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-172">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/scrapy/exporters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3218">
@@ -1133,17 +1018,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/spiders/qiumeimei.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4、Scpy框架/qsbk/budejie.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/site-packages/scrapy/spiders/crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/wxapp/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/wxapp/wxapp/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/wxapp/wxapp/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="45" column="102" selection-start-line="45" selection-start-column="102" selection-end-line="45" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/wxapp/wxapp/spiders/wxapp_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Envs/Reptile_env/Lib/sre_parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="854" selection-start-line="854" selection-end-line="854" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/qsbk/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="62" column="14" selection-start-line="62" selection-end-line="62" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-196">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/qsbk/qsbk/spiders/qiumeimei.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#93#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/baidu/baidu/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/baidu/baidu/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/baidu/baidu/spiders/baidu_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/baidu/baidu/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1876">
+          <caret line="67" column="18" selection-start-line="67" selection-start-column="18" selection-end-line="67" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/baidu/baidu/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4、Scpy框架/baidu/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
