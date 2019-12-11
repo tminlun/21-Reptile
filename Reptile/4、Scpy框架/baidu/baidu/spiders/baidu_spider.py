@@ -11,12 +11,13 @@ class BaiduSpiderSpider(CrawlSpider):
 
     rules = (
         # 获取所有页码（page）的链接
-        Rule(LinkExtractor(allow=r'page=\d+'),callback='parse_item', follow=True),
+        Rule(LinkExtractor(allow=r'page=\d+&ka=page-prev'),callback='parse_item', follow=True),
         Rule(LinkExtractor(allow=r'job_detail/.*?\.html'), callback='parse_detail')
 
     )
 
     def parse_item(self, response):
+        print(response)
         li_list = response.xpath('//div[@class="job-list"]/ul/li')
         for li in li_list:
             job_title = li.xpath('.//div[@class="job-title"]/text()').extract_first()

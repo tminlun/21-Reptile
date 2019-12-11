@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 import scrapy
+import json
+
 from scrapy.linkextractors import LinkExtractor
 from scrapy.spiders import CrawlSpider, Rule
 
@@ -7,7 +9,9 @@ from scrapy.spiders import CrawlSpider, Rule
 class WxappSpiderSpider(CrawlSpider):
     name = 'wxapp_spider'
     allowed_domains = ['developers.weixin.qq.com']
-    start_urls = ['https://developers.weixin.qq.com/community/ngi/question/list?page=6&tag=new&blocktype=30&openid=&random=0.8950513528607165/']
+    start_urls = ['https://developers.weixin.qq.com']
+
+    BASE_ALLOWED_DETAIL = "https://developers.weixin.qq.com/community/develop/doc/"
 
     """
       这个Rule啊其实就是为了爬取全站内容的写法
@@ -21,14 +25,29 @@ class WxappSpiderSpider(CrawlSpider):
     rules = (
         # 这个Rule只获取详情的url，所以不需要callback（解析方法）
         # 它会自动将爬取下面指定的详情url，发送给下面的Rule
-        Rule(LinkExtractor(allow=r'.+community/ngi/question/list?page=6&tag=new&blocktype=30&openid=&random=0.8950513528607165'),
-            follow=True),
+        Rule(LinkExtractor(allow=r'.+/community/ngi/question/list?page=\d+&tag=new&blo'
+                  'cktype=30&openid=&random=0.8950513528607165/'),
+            follow=True,callback='parse_item'),
 
-        # 这个Rule才是获取详情数据
-        Rule(LinkExtractor(allow=r'.+community/enterprisewechat/doc/.+'),
-             callback='parse_item', follow=False),
+        # # 这个Rule才是获取详情数据
+        # Rule(LinkExtractor(allow=r'.+community/develop/doc/.*?'),
+        #      callback='parse_item', follow=False),
     )
 
-    def parse_item(self, response):
-        list_title = response.xpath('//span[@class="post_title_content"]/text()').get()
-        print(list_title)
+    def parse_item(self,response):
+        # TextResponse转换为srt数据类型
+        response = response.text
+        #  将json转为py数据类型
+        res = json.loads(response)
+
+        # 获取数据
+        rows = res['data']['rows']
+        print(type(response))
+        for row in rows:
+            docId = row['DocId']
+            docId = self.BASE_ALLOWED_DETAIL + docId
+            # print(docId)
+    #
+    # def parse_item(self, response):
+    #     list_title = response.xpath('//span[@class="post_title_content"]/text()').get()
+    #     print(list_title)
